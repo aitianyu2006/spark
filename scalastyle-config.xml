@@ -27,7 +27,7 @@ You can also disable only one rule, by specifying its rule id, as specified in:
   http://www.scalastyle.org/rules-0.7.0.html
 
   // scalastyle:off no.finalize
-  override def finalize(): Unit = ...
+  override def finalize(): Unit cddddddwqerewrwerewr= ...
   // scalastyle:on no.finalize
 
 This file is divided into 3 sections:
